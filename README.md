@@ -10,16 +10,17 @@
 	
 <img height="215px" width="auto" align="left" src="https://github-readme-stats.vercel.app/api?username=anaolisilva&theme=tokyonight&show_icons=true">
 
-<br><br>
+<br>
 	
 <div>
+<h6><em>Questions, feedbacks, chatter? I'm all ears!</h6>
 <h3> 📡 Contact me </h3>
 <a href="https://linkedin.com/in/anaolisilva" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anaolisilva" height="22.5" width="30" /></a>
 <a href="mailto:vianello.ana@gmail.com" target="_blank"><img align="center" src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63" alt="e-mail: vianello.ana@gmail.com" height="30" width="30" /></a>
 </div>
 </div>
 
-<br><br><br><br>
+<br><br><br>
 
 ##
 
