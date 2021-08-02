@@ -13,7 +13,7 @@
 
 ##
 
-<h4> 💻 These are the languages I'm most familiar with: </h4>
+<h4> 💻 These are the languages and technologies I'm most familiar with: </h4>
 <table float="left">
     <tr>
 			<td><img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></td>
