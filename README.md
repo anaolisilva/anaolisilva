@@ -43,7 +43,7 @@
 		</tr>
 </table>
 <br><br>
-<img align="right" height="auto" width="480px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaolisilva&layout=compact&theme=blueberry">
+<img align="right" height="auto" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaolisilva&layout=compact&theme=blueberry">
 
 <br><br><br><br><br>
 
