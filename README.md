@@ -45,7 +45,7 @@
 <br>
 <img align="right" height="auto" width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaolisilva&layout=compact&theme=blueberry">
 
-<br><br><br><br>
+<br><br><br><br><br>
 
 <h4> 📕 And here are some languages I'm acquainted with: </h4>
 <h6><em>*...and would love to know more about!</em></h6>
