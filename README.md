@@ -4,7 +4,7 @@
 	<span align="left">
 - 👋 I’m @anaolisilva, a brazilian programmer, film producer and writer.<br>
 - 🧠 My favorite thing is solving problems.<br>
-- 🌱 I’m currently studying to become a full-stack web developer with <a target="_blank" href="https://brazil.generation.org/">Generation Brasil</a>. <br>
+- 🌱 I’m a full-stack Java web developer with a passion for learning. <br>
 	</span>
 <hr>
 	
