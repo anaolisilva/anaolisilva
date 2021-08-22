@@ -47,16 +47,22 @@
 
 <br><br><br><br><br>
 
-<h4> 📕 And here are some languages I'm acquainted with: </h4>
+<h4> 📕 And here are some languages and technologies I'm acquainted with: </h4>
 <h6><em>*...and would love to know more about!</em></h6>
   <table>
     <tr>
 			<td><img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
+			<td><img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></td>
 			<td><img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></td>
+		</tr>
+		<tr>
+			<td><img align="center" alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></td>
 		</tr>
 	</table>
 	
 ##
 
 <h3 align="right"><em>Thanks for stopping by!</em></h3>
+	
+	
 
