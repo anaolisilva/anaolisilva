@@ -2,9 +2,9 @@
 
 <div style="display:inline_block;">
 	<span align="left">
-- 👋 I’m @anaolisilva, a brazilian programmer, film producer and writer.<br>
+- 👋 I’m @anaolisilva, a brazilian programmer, film producer and writer. <br>
 - 🧠 My favorite thing is solving problems.<br>
-- 🌱 I’m a full-stack Java web developer with a passion for learning. <br>
+- 🌱 Currently, I'm a backend developer at Cora, a brazilian fintech. <br>
 	</span>
 <hr>
 	
