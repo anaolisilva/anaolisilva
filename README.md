@@ -2,7 +2,7 @@
 
 <div style="display:inline_block;">
 	<span align="left">
-- 👋 I’m @anaolisilva, a brazilian programmer, film producer and writer. <br>
+- 👋 I’m @anaolisilva, a brazilian programmer and a writer. <br>
 - 🧠 My favorite thing is solving problems.<br>
 - 🌱 Currently, I'm a backend developer at Cora, a brazilian fintech. <br>
 	</span>
@@ -53,12 +53,12 @@
     <tr>
 			<td><img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
 			<td><img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></td>
-			<td><img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></td>
+			<td><img align="center" alt="GoLang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></td>
 		</tr>
 		<tr>
 			<td><img align="center" alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></td>
 			<td><img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></td>
-			<td><img align="center" alt="GoLang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></td>
+			<td><img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></td>
 		</tr>
 	</table>
 	
